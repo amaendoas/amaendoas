@@ -5,11 +5,7 @@ I am engineering graduate looking for opportunities and collabaration in project
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 🤝 I'm looking to collaborate with people who have similar interests for joint evolution.
 
-<div align="center">
-  <a href="https://github.com/amaendoas">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=amaendoas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaendoas&layout=compact&langs_count=7&theme=dracula"/>
-</div></a>
+
   
   ## Current Used Languages
   <a href="https://github.com/amaendoas">
