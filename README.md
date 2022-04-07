@@ -4,7 +4,7 @@ I am engineering graduate looking for opportunities and collabaration in project
 - 🔭 I'm currently working on my hard and soft skills to get my first opportunity in technology area.
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 🤝 I'm looking to collaborate with people who have similar interests for joint evolution.
-- 
+
 <div align="center">
   <a href="https://github.com/amaendoas">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=amaendoas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
