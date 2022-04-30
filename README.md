@@ -1,5 +1,5 @@
  <h2>Hi 👋 I'm Amanda Guerra</h2>
-<a href="https://github.com/amaendoas"><img align='left' height="150em" src="https://i.imgur.com/3BOEkFp.png"/></a>
+<a href="https://github.com/amaendoas"><img align='left' alt="Amanda-Avatar" height="150em" src="https://i.imgur.com/3BOEkFp.png"/></a>
 <div align="start">
 I am engineering graduate looking for opportunities and collabaration in projects related to fullstack development.<br>
 - 🔭 I'm currently working on my hard and soft skills to get my first opportunity in technology area.<br>
