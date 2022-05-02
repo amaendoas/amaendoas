@@ -1,4 +1,4 @@
- <h2>Hi <img align="center" alt="Amanda-Js" height="40" width="40" src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif"> I'm Amanda Guerra</h2>
+ <h2>Hi <img align="center" alt="Amanda-Js" height="35" width="35" src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif"> I'm Amanda Guerra</h2>
 <a href="https://github.com/amaendoas"><img align='left' alt="Amanda-Avatar" height="150em" src="https://i.imgur.com/3BOEkFp.png"/></a>
 <div align="start">
 I am Engineering graduate looking for opportunities and collabaration in projects related to fullstack development.<br>
