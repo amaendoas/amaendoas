@@ -1,8 +1,8 @@
  <h2>Hi <img align="center" alt="Amanda-Js" height="35" width="35" src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif"> I'm Amanda Guerra</h2>
 <a href="https://github.com/amaendoas"><img align='left' alt="Amanda-Avatar" height="150em" src="https://i.imgur.com/3BOEkFp.png"/></a>
 I'm a Web Developer looking for opportunities and collabaration in projects related to Fullstack development.<br>
-- ✨ I'm able to use `HTML`, `CSS` and `JavaScript`.<br>
-- 🌱 I’m currently learning `Node.js`.<br>
+- ✨ I'm able to use HTML, CSS and JavaScript.<br>
+- 🌱 I’m currently learning Node.js.<br>
 - 🤝 I'm looking to collaborate with people who have similar interests for joint evolution.<br>
   <div align="center">
   <a href="https://instagram.com/amaendoas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
