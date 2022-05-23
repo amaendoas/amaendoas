@@ -5,7 +5,7 @@ I'm a Web Developer looking for opportunities and collabaration in projects rela
 - 🔭 I'm currently working on my hard and soft skills to get my first opportunity in technology area.<br>
 - 🌱 I’m currently learning HTML, CSS, JavaScript and Node.js.<br>
 - 🤝 I'm looking to collaborate with people who have similar interests for joint evolution.<br><br>
-  <div align="center">
+  <div align="start">
   <a href="https://instagram.com/amaendoas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:amandguerra7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guerramanda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
