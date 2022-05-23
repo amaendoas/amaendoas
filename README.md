@@ -3,7 +3,7 @@
 I'm a Web Developer looking for opportunities and collabaration in projects related to Fullstack development.<br>
 - 🔭 I'm currently working on my hard and soft skills to get my first opportunity in technology area.<br>
 - ✨ I'm able to use HTML, CSS and JavaScript.<br>
-- 🌱 I’m currently learning Node.js.<br>
+- 🌱 I’m currently learning ReactJS and Node.js.<br>
 - 🤝 I'm looking to collaborate with people who have similar interests for joint evolution.<br><br><br><br>
  </div>
 <div align="start">
