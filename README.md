@@ -1,6 +1,6 @@
 <h2>Hi <img align="center" alt="Amanda-Js" height="35" width="35" src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif"> I'm Amanda Guerra</h2>
 
-<a href="https://github.com/amaendoas"><img align='left' alt="Amanda-Avatar" height="130em" src="https://i.imgur.com/3BOEkFp.png"/></a>
+<a href="https://github.com/amaendoas"><img align='right' alt="Amanda-Avatar" height="150em" src="https://i.imgur.com/3BOEkFp.png"/></a>
 <div align='start'>
  I'm a Web Developer looking for opportunities and collabaration in projects related to Fullstack development.<br>
 - 🔭 I'm currently working on my hard and soft skills to get my first opportunity in technology area.<br>
@@ -9,7 +9,7 @@
 - 🤝 I'm looking to collaborate with people who have similar interests for joint evolution.
  </div>
 <div align="start">
- <br><br>
+ <br>
   <a href="https://github.com/amaendoas">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaendoas&layout=compact&langs_count=7&theme=dracula"/></a>
  <h4>📌Find me</h4>
