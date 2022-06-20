@@ -9,7 +9,7 @@
 - 🤝 I'm looking to collaborate with people who have similar interests for joint evolution.
  </div>
 <div align="start">
- <br>
+ <br><br>
   <a href="https://github.com/amaendoas">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaendoas&layout=compact&langs_count=7&theme=dracula"/></a>
  <h4>📌Find me</h4>
