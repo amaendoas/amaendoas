@@ -1,6 +1,6 @@
 <h2>Hi, I'm Amanda Guerra</h2>
 
-<a href="https://github.com/amaendoas"><img align='right' alt="Amanda-Avatar" height="150em" src="https://media.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif"/></a>
+<a href="https://github.com/amaendoas"><img align='right' alt="Amanda-Avatar" height="130em" src="https://media.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif"/></a>
 <div align='start'>
  I'm a Web Developer looking for opportunities and collabaration in projects related to Fullstack development.<br>
 - 🔭 I'm currently working on my hard and soft skills to get my first opportunity in technology area.<br>
