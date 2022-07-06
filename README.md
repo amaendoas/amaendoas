@@ -1,5 +1,5 @@
 <h2>Hi, I'm Amanda Guerra</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amaendoas&color=ff69b4" alt="Profile views" /> </p>
+<p align="left"> <a href="https://github.com/amaendoas"><img src="https://komarev.com/ghpvc/?username=amaendoas&color=ff69b4" alt="Profile views" /></a></p>
 
 <a href="https://github.com/amaendoas"><img align='right' alt="Amanda-Avatar" height="130em" src="https://media.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif"/></a>
 <div align='start'>
