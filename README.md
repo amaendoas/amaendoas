@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/-HTML5-585858?logo=html5&logoColor=E34F26" alt="HTML5">
   <img src="https://img.shields.io/badge/-CSS3-585858?logo=css3&logoColor=1572B6" alt="CSS3">
   <img src="https://img.shields.io/badge/-JavaScript-585858?logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-TypeScript-585858?logo=typescript&logoColor=3178C6" alt="TypeScript">
   <img src="https://img.shields.io/badge/-ReactJS-585858?logo=react&logoColor=61DAFB" alt="ReactJS">
   <img src="https://img.shields.io/badge/NodeJS-585858?logo=node.js&logoColor=6DA55F" alt="Nodejs">
   <img src="https://img.shields.io/badge/SQLite-585858?logo=sqlite&logoColor=003B57" alt="SQLite">
