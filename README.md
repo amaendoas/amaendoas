@@ -5,7 +5,7 @@
 <div align='start'>
  I'm a Web Developer looking for opportunities and collabaration in projects related to Fullstack development.<br>
 - 🔭 I'm currently working on my hard and soft skills to get my first opportunity in technology area.<br>
-- 🌱 I’m currently learning ReactJS, TypeScript Node.js.<br>
+- 🌱 I’m currently learning ReactJS, TypeScript and Node.js.<br>
 - 🤝 I'm looking to collaborate with people who have similar interests for joint evolution.
  </div>
 <div align="start">
