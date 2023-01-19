@@ -12,7 +12,9 @@
  <br>
   <a href="https://github.com/amaendoas">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=amaendoas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaendoas&layout=compact&langs_count=7&theme=dracula"/></a>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaendoas&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusOliver-stack&theme=dracula&hide_border=false"/>
+ </a>
   <h4>🛠Tech Stack</h4>
   <img src="https://img.shields.io/badge/-HTML5-585858?logo=html5&logoColor=E34F26" alt="HTML5">
   <img src="https://img.shields.io/badge/-CSS3-585858?logo=css3&logoColor=1572B6" alt="CSS3">
