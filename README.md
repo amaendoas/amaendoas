@@ -11,7 +11,6 @@
 <div align="start">
  <br>
   <a href="https://github.com/amaendoas">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=amaendoas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaendoas&layout=compact&langs_count=7&theme=dracula"/>
   <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusOliver-stack&theme=dracula&hide_border=false"/>
  </a>
