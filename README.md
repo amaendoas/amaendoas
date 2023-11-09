@@ -4,8 +4,8 @@
 <a href="https://github.com/amaendoas"><img align='right' alt="Amanda-Avatar" height="130em" src="https://media.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif"/></a>
 <div align='start'>
  I'm a Web Developer looking for opportunities and collabaration in projects related to <b>FrontEnd</b> development.<br>
-- 🔭 I'm currently working on my hard and soft skills to get my first opportunity in technology area.<br>
-- 🌱 I’m currently learning ReactJS, TypeScript and Node.js.<br>
+- 🔭 I'm <strong>always</strong> working on my hard and soft skills to be a better person and an exceptional Front-End Developer.<br>
+- 🌱 I’m currently using TypeScript and Next.js.<br>
 - 🤝 I'm looking to collaborate with people who have similar interests for joint evolution.
  </div>
 <div align="start">
